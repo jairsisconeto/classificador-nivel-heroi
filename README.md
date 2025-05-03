@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a0f3f000-75f5-4eb3-8ae0-8b8e626e5a29)
+
 # 🏆 Classificador de Nível de Herói
 
 ## 📌 Descrição
@@ -47,3 +49,4 @@ git clone https://github.com/jairsisconeto/classificador-heroi.git
 - Adicionar **animações** e efeitos visuais.
 - Criar um **ranking** de heróis com melhores pontuações.
 - Implementar **localStorage** para salvar dados do usuário.
+
