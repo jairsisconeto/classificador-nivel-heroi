@@ -40,7 +40,7 @@ Este projeto é um **classificador de nível de herói**, baseado na **quantidad
 ## 🚀 Como Executar o Projeto
 1️⃣ Clone este repositório:  
 ```sh
-git clone https://github.com/jairsisconeto/classificador-heroi.git
+git clone https://github.com/jairsisconeto/classificador-nivel-heroi
 ```
 2️⃣ Abra o arquivo `index.html` no navegador.  
 3️⃣ Insira o nome e XP do herói e clique em **Classificar**.  
